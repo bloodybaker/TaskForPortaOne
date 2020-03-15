@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aebabd31-06cb-445b-b470-a663caffd0fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YtelLJBg1rRxf7tlBjDjWZbABl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\untitled21" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled21" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aebabd31-06cb-445b-b470-a663caffd0fa" name="Default Changelist" comment="" />
+      <created>1583766467740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583766467740</updated>
+      <workItem from="1583766473646" duration="4936000" />
+      <workItem from="1583859987205" duration="926000" />
+      <workItem from="1584119370222" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="811" y="411" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584287173545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="411" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/-1280.13.1280.984@0.0.1920.1040" timestamp="1584287173545" />
+    <state width="1877" height="249" key="GridCell.Tab.0.bottom" timestamp="1584297494546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.13.1280.984@0.0.1920.1040" timestamp="1584297494546" />
+    <state width="1877" height="249" key="GridCell.Tab.0.center" timestamp="1584297494546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="249" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.13.1280.984@0.0.1920.1040" timestamp="1584297494546" />
+    <state width="1877" height="249" key="GridCell.Tab.0.left" timestamp="1584297494546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="249" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.13.1280.984@0.0.1920.1040" timestamp="1584297494546" />
+    <state width="1877" height="249" key="GridCell.Tab.0.right" timestamp="1584297494546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="249" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.13.1280.984@0.0.1920.1040" timestamp="1584297494546" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1584290547146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1280.13.1280.984@0.0.1920.1040" timestamp="1584290547146" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1584290547146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1280.13.1280.984@0.0.1920.1040" timestamp="1584290547146" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1584290547145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1280.13.1280.984@0.0.1920.1040" timestamp="1584290547145" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1584290547146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1280.13.1280.984@0.0.1920.1040" timestamp="1584290547146" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1584291442732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1280.13.1280.984@0.0.1920.1040" timestamp="1584291442732" />
+  </component>
+</project>
