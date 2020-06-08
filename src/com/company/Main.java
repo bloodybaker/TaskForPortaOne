@@ -69,7 +69,19 @@ public class Main {
                 mcount = 1;
             }
         }
-        Collections.sort(arrayList);
+        for (int i = 0; i < arrayList.size(); i++) {
+            long min = arrayList.get(i);
+            int minId = i;
+            for (int j = i+1; j < arrayList.size(); j++) {
+                if (arrayList.get(i) < min) {
+                    min = arrayList.get(i);
+                    minId = j;
+                }
+            }
+            long temp = arrayList.get(i);
+            arrayList.set(i,min);
+            arrayList.set(minId,temp);
+        }
         System.out.println("Min: " + arrayList.get(0) + " Max: "
                 + arrayList.get(arrayList.size()-1));
         for (double i: arrayList) {
